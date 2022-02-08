@@ -1,1 +1,1 @@
-import mypyfile
+from .mypyfile import *
