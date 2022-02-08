@@ -1,7 +1,11 @@
 API3 
 ====
 
-retry
+.. currentmodule:: test
 
-.. automodule:: test
-   :members:
+
+.. autosummary::
+    :nosignatures:
+    :toctree: _autosummary
+
+    Molecule <mypyfile>
