@@ -3,5 +3,5 @@ API3
 
 retry
 
-.. automodule:: test.mypyfile
+.. automodule:: test
    :members:
