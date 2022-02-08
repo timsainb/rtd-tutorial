@@ -1,5 +1,5 @@
 """
-test - testest
+mypyfile - testest
 """
 
 __version__ = "0.1.0"
