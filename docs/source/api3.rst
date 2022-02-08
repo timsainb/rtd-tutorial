@@ -1,6 +1,14 @@
-API3 
-====
+=============
+API Reference
+=============
 
+Package :mod:`foo`
+==================
 
-.. automodule:: test.mypyfile
+Module :mod:`foo.bar`
+---------------------
+
+.. automodule:: foo.bar
    :members:
+   :undoc-members:
+   :show-inheritance:
