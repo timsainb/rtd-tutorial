@@ -1,7 +1,7 @@
 API3 
 ====
 
-.. autosummary::
-   :toctree: generated
+.. automodule:: test.mypyfile
+    :members:
 
-   test.mypyfile
+   
