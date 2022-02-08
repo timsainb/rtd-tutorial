@@ -23,3 +23,4 @@ Contents
    usage
    api
    api2
+   api3
